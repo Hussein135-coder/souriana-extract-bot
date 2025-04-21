@@ -1,0 +1,23 @@
+{
+  "name": "souriana-extract-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.22.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+<<<<<<< HEAD
+    "express": "^5.1.0",
+=======
+>>>>>>> e6510e8d0b45680f8704d4dcbadba96ae604b81e
+    "mime-types": "^2.1.35",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
